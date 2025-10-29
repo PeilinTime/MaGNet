@@ -1,6 +1,7 @@
 # MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning
 
-![MaGNet Framework](https://github.com/PeilinTime/MaGNet/blob/main/figures/MaGNet%20Framework.png)
+### Framework Overview
+![MaGNet Framework](https://github.com/PeilinTime/MaGNet/blob/main/figrues/MaGNet%20Framework.png)
 
 ---
 
@@ -62,22 +63,9 @@ python backtest.py
 
 Below are the backtesting performance charts of MaGNet on all datasets:
 
-![Backtesting_result_DJIA](https://github.com/PeilinTime/MaGNet/blob/main/figures/Backtesting_result_DJIA.png)
-![Backtesting_result_NASDAQ100](https://github.com/PeilinTime/MaGNet/blob/main/figures/Backtesting_result_NASDAQ100.png)
-![Backtesting_result_CSI300](https://github.com/PeilinTime/MaGNet/blob/main/figures/Backtesting_result_CSI300.png)
-![Backtesting_result_HSI](https://github.com/PeilinTime/MaGNet/blob/main/figures/Backtesting_result_HSI.png)
-![Backtesting_result_SP100](https://github.com/PeilinTime/MaGNet/blob/main/figures/Backtesting_result_SP100.png)
-![Backtesting_result_Nikkei225](https://github.com/PeilinTime/MaGNet/blob/main/figures/Backtesting_result_Nikkei225.png)
-
----
-
-### 📄 License
-
-All Rights Reserved – For Review Only
-
-This code is provided exclusively for the purpose of anonymous review of our paper submitted to WWW 2026.
-
-You are permitted to view, compile, and run this code.
-You may not copy, distribute, or use it for any other purposes.
-
-© 2025 Anonymous Authors
+![Backtesting_result_DJIA](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_DJIA.png)
+![Backtesting_result_NASDAQ100](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_NASDAQ100.png)
+![Backtesting_result_CSI300](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_CSI300.png)
+![Backtesting_result_HSI](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_HSI.png)
+![Backtesting_result_SP100](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_SP100.png)
+![Backtesting_result_Nikkei225](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_Nikkei225.png)
