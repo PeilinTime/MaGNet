@@ -16,7 +16,7 @@ All datasets and model weights are available on Google Drive (anonymized already
 Included datasets:
 
 * **DJIA**
-* **NASDAQ-100**
+* **NASDAQ 100**
 * **CSI 300**
 
 ---
