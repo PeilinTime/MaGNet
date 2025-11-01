@@ -1,5 +1,8 @@
 # MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning
 
+## Introduction 📖
+MaGNet is a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies.
+
 ### Framework Overview
 ![MaGNet Framework](https://github.com/PeilinTime/MaGNet/blob/main/figrues/MaGNet%20Framework.png)
 
@@ -8,7 +11,7 @@
 
 
 
-### 📦 Datasets & Model Weights
+## Datasets & Model Weights 📦
 
 All datasets and model weights are available on Google Drive (anonymized already):
 👉 [Download Link](https://drive.google.com/drive/folders/1fh3NTVLAF3GE00iHVng7HojNcr1-W5Du?usp=sharing)
@@ -21,13 +24,13 @@ Included datasets:
 
 ---
 
-### 🚀 How to Run MaGNet
+##  How to Run MaGNet 🚀
 
-#### 1. Download this repository
+### 1. Download this repository
 
 Download or clone this code repository to your local machine.
 
-#### 2. For Training and Prediction
+### 2. For Training and Prediction
 
 Download one of the datasets from the Google Drive link above:
 
@@ -42,7 +45,7 @@ Run the following command to train the model and make predictions (including tra
 python train.py
 ```
 
-#### 3. For Backtesting
+### 3. For Backtesting
 
 Download the dataset **and** its corresponding model weight from the same link:
 
@@ -59,7 +62,7 @@ python backtest.py
 
 ---
 
-### 📈 Backtesting Results
+##  Backtesting Results 📈
 
 Below are the backtesting performance charts of MaGNet on all datasets:
 
