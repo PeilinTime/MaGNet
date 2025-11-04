@@ -1,5 +1,8 @@
 # MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning
 
+The repo is the official implementation for the paper: [MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning](https://arxiv.org/abs/2511.00085).
+.
+
 ## Introduction 📖
 MaGNet is a Mamba dual-hypergraph network that integrates advanced temporal modeling with dual hypergraph relational learning to capture both causal and global market dependencies.
 
@@ -72,3 +75,18 @@ Below are the backtesting performance charts of MaGNet on all datasets:
 ![Backtesting_result_HSI](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_HSI.png)
 ![Backtesting_result_SP100](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_SP100.png)
 ![Backtesting_result_Nikkei225](https://github.com/PeilinTime/MaGNet/blob/main/figrues/Backtesting_result_Nikkei225.png)
+
+## Citation
+We would appreciate it if you could cite the following paper if you found the repository useful for your work:
+
+```bash
+@misc{tan2025magnetmambadualhypergraphnetwork,
+      title={MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning}, 
+      author={Peilin Tan and Chuanqi Shi and Dian Tu and Liang Xie},
+      year={2025},
+      eprint={2511.00085},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2511.00085}, 
+}
+```
