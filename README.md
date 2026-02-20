@@ -1,6 +1,6 @@
 # MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning
 
-The repo is the official implementation for the paper: [MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning](https://arxiv.org/abs/2511.00085).
+The repo is the official implementation for the paper: [MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning](https://arxiv.org/abs/2511.00085)
 .
 
 ## Introduction 📖
