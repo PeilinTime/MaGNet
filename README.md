@@ -16,7 +16,7 @@ MaGNet is a Mamba dual-hypergraph network that integrates advanced temporal mode
 
 ## Datasets & Model Weights 📦
 
-All datasets and model weights are available on Google Drive (anonymized already):
+All datasets and model weights are available on Google Drive:
 👉 [Download Link](https://drive.google.com/drive/folders/1fh3NTVLAF3GE00iHVng7HojNcr1-W5Du?usp=sharing)
 
 Included datasets:
